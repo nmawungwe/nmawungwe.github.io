@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my blog, thanks for passing by. I see this as my open diary were I document stuff that I find interesting from my own lived experiences to what I have read or learnt from others. I specifically maintain this blog for my future self to look back on and remind myself of that moment and time. I hope you also find the writing interesting and maybe I hope you learn something from it. 
+Welcome to my blog, and thanks for passing by. I see this as my open diary, where I document stuff that I find interesting—from my own lived experiences to what I have read or learned from others. I specifically maintain this blog for my future self to look back on and remind myself of that moment in time. I hope you also find the writing interesting, and maybe even learn something from it.
 
-![Random picture of me somewhere in the wild](nmawungwe.github.io/docs/images/AboutPagePic.jpeg)
+<img src="/images/AboutPagePic.jpeg" alt="Alt text for the image" width="300" style="display: block; margin: auto;">
+<p style="text-align: center; font-style: italic;">Somewhere in the wild</p>
 
