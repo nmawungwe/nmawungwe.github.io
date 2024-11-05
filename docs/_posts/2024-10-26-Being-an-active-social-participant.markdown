@@ -4,10 +4,6 @@ title:  "Being an active social participant"
 date: 2024-10-26 14:40:00 +0900
 categories: daily
 ---
-*TLDR from ChatGPT*<br>
-An active social media user with time limits, following engaged friends and reputable experts, gains more value.
-
----
 
 Just as a regular social user, I get bombarded with information all the time. Most of it is noise, and occasionally I get a *signal* on what’s really important now and what could be important in the future. Most social applications want my attention, and boy, do they work hard to get it. I get to the end of the day, and sometimes I ask myself, *‘What actually happened today?’*
 
