@@ -1,2 +1,2 @@
 # nmawungwe.github.io
-My personal website by Nyasha
+My personal blog by Nyasha Mawungwe
