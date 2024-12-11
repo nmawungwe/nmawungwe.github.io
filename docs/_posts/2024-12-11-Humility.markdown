@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Humility"
+date: 2024-12-11 20:50:00 +0900
+categories: daily
+---
+
+Well, humility is an interesting concept. I have been searching for more formal definitions of humility. Some of the ones I've come across seem self-deprecating. I am not aiming for that, but this one seems alright:
+
+> "Humility involves having an accurate opinion of oneself and expressing oneself modestly as situations demand, with clear goal orientation, openness, broad-mindedness, and a non-imposing mentality." [^1]
+
+Having an accurate opinion of oneself, as described in the definition, sounds easier said than done. It requires a lot of self-examination, self-reflection, and self-honesty. It means knowing when I am right, wrong, or don't know. When I am right, it's easy to do the selfs I have just mentioned because there is coherence; measured observations agree with my opinions and expectations. The selfs are most useful when it's the opposite—when measured observations or the majority are in disagreement with my opinions and expectations.
+
+Am I open-minded and broad-minded enough to do the selfs when the masses or measured observations disagree with my opinions or expectations? Am I willing to consider I could possibly be wrong? Perhaps my axioms, the information I consumed, and the assumptions I made were wrong, and this led me to disagreeing with the crowd or measured results. Or is this one of those rare cases where an individual has an insight that the majority doesn't have or is hidden in the observations made? It's hard to know.
+
+First, if I am in the minority on a particular subject or my expectations aren't supported by measured observations, I should initially assume that I am missing some information, as suggested by the efficient market hypothesis[^2]. However, this is only the first step: acknowledging, "*Umm, maybe I could be wrong.*" This is easier to do if I am not emotionally attached to my ideas or, as some internet anons eloquently say, "*Don't get married to your opinions, anon.*" Then the next step is investigating why I could be wrong. Who are the most informed people discussing this topic and disagreeing with me?
+
+1. Are they well-researched?
+2. Are they referencing some reliably collected data or sources?
+3. Have they debated other smart people that disagree with them without gaslighting them?
+
+If the answer to some of these questions is yes, then I should now be open to changing my opinion or at least discarding my wrong one. If the answers to the above questions are no, then maybe my opinion is correct. Can I test my view by acting on it and collecting more data? Good opinions are the ones that can be tested. When I do the initial test, I should do it at a small scale with small stakes. In case it backfires, I should be able to manage it. 
+
+If I get results confirming my outlook from the data collection, I should act with more conviction while still leaving room for error. If the data collection doesn't confirm my outlook, then maybe I should repeat the process. After repeating, if the results are still null, then maybe I should put the opinion on the shelf, humbly move on, be happy, and revisit it in the future if new advancements happen.
+
+[^1]: [Wikipedia - Humility](https://en.wikipedia.org/wiki/Humility)
+[^2]: [Wikipedia - Efficient Market Hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+
+
+*Zim style version from Claudé with minimal changes from me 😎*
+
+Saka, pane interesting concept yehumility iyi apa that I've been thinking about lately. You know what's funny? Most people think kuti kuita munhu ane humility means you should act like you're worthless - *but that's not it at all*. According to proper research vanhu yavakaita, humility simply means having an accurate view of yourself, expressing yourself appropriately depending on the situation, and keeping an open mind. It's about being *real with yourself*, unoziva here?
+
+The trickiest part ndeyekuti sometimes hazvisi nyore kuziva whether uri right kana kuti uri wrong. Let me put it this way - zvakaita sekuti uri kuenda kuTown nekombi, iwe woti route ndeiyi but vanhu vose vari kutaura imwe nyaya. What do you do in that situation? Do you automatically assume uri wrong just because the majority iri kutaura zvimwe? Or maybe *iwe ndiwe une correct information*?
+
+This is exactly where true humility comes into play. Instead yekungoti "*Aiwa*, ndini ndinotoziva", humility means being willing to consider that maybe pane zvinhu zvausingawone iwe. Many of us make the mistake yekuita kunge "*takaroora pfungwa dzedu*" - we become so attached to our ideas that we refuse to consider any other perspectives.
+
+When it comes to handling these situations in a smart way, there are a few key things to consider. First things first, allow yourself to consider the possibility that uri wrong (this doesn't mean accepting that you're wrong, just being open to the possibility). Take time to examine those who disagree with you - check if they're working with solid facts or if *vari kungotaura zvemumusoro mavo*. Then test your ideas *mbijana mbijana, bhora pasi wangu.*
+
+*Chii chakaipa* about changing your mind when evidence shows you were wrong? Absolutely nothing! But equally important, if evidence supports your position, don't be afraid to stand your ground - just remember to always leave room for new information maybe pane mazheti ausina kuona.
+
+At the end of the day, humility haisi yekungobvuma zvese zvese or putting yourself down. It's about being intelligent in how you handle your opinions and interact with others. It's about knowing when to listen to others and when to stand firm in what you believe. *Ndizvo zvataurwa izvi wangu* - true humility is about finding that sweet spot between being confident in what you know and being open to learning from others.
+
+You see, we often talk about munhu ane *hunhu*, and humility is a big part of that. But true *hunhu* doesn't mean *kubvuma zvese zvaunonzwa* - it means having the wisdom to know when to listen and when to speak up, when to learn from others and when to share what you know. That's what real humility looks like pamadhiri aya.
