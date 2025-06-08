@@ -1,0 +1,18 @@
+/* Simple dark mode styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+body.dark-mode a { color: #bb86fc; }
+.dark-mode .site-header,
+.dark-mode .site-footer,
+.dark-mode header.site-header {
+  background-color: #1e1e1e;
+}
+.theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2em;
+  margin-left: 1rem;
+}
