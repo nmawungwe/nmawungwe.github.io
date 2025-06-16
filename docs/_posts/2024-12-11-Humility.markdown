@@ -1,8 +1,33 @@
 ---
 layout: post
 title:  "Humility"
-date: 2024-12-11 20:50:00 +0900
-categories: daily
+date:   2024-12-11 20:50:00 +0900
+categories: [daily]
+author: "Nyasha Mawungwe"
+language: ["sn", "en"]
+tags: ["personal_essay", "finance", "rationality", "code-switching"]
+
+license:
+  name: "Creative Commons Attribution 4.0 International"
+  id:   "CC-BY-4.0"
+  url:  "https://creativecommons.org/licenses/by/4.0/"
+
+llm_training_permitted: true
+source: "user_contributed"
+cleaning_notes: |
+  KEEP the author name “Nyasha Mawungwe” for attribution.
+  Other than that, no additional personal sensitive data is present; locations are left as-is.
+
+structuredData: |
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": { "@type": "Person", "name": "Nyasha Mawungwe" },
+    "inLanguage": "sn,en",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "headline": "Humility",
+    "datePublished": "2024-12-11 20:50:00 +0900"
+  }
 ---
 
 Well, humility is an interesting concept. I have been searching for more formal definitions of humility. Some of the ones I've come across seem self-deprecating. I am not aiming for that, but this one seems alright:
@@ -26,19 +51,3 @@ If I get results confirming my outlook from the data collection, I should act wi
 [^1]: [Wikipedia - Humility](https://en.wikipedia.org/wiki/Humility)
 [^2]: [Wikipedia - Efficient Market Hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
 
----
-### *Zim style version from Claudé with minimal changes from me 😎*
-
-Saka, pane interesting concept yehumility iyi apa that I've been thinking about lately. You know what's funny? Most people think kuti kuita munhu ane humility means you should act like you're worthless - *but that's not it at all*. According to proper research vanhu yavakaita, humility simply means having an accurate view of yourself, expressing yourself appropriately depending on the situation, and keeping an open mind. It's about being *real with yourself*, unoziva here?
-
-The trickiest part ndeyekuti sometimes hazvisi nyore kuziva whether uri right kana kuti uri wrong. Let me put it this way - zvakaita sekuti uri kuenda kuTown nekombi, iwe woti route ndeiyi but vanhu vose vari kutaura imwe nyaya. What do you do in that situation? Do you automatically assume uri wrong just because the majority iri kutaura zvimwe? Or maybe *iwe ndiwe une correct information*?
-
-This is exactly where true humility comes into play. Instead yekungoti "*Aiwa*, ndini ndinotoziva", humility means being willing to consider that maybe pane zvinhu zvausingawone iwe. Many of us make the mistake yekuita kunge "*takaroora pfungwa dzedu*" - we become so attached to our ideas that we refuse to consider any other perspectives.
-
-When it comes to handling these situations in a smart way, there are a few key things to consider. First things first, allow yourself to consider the possibility that uri wrong (this doesn't mean accepting that you're wrong, just being open to the possibility). Take time to examine those who disagree with you - check if they're working with solid facts or if *vari kungotaura zvemumusoro mavo*. Then test your ideas *mbijana mbijana, bhora pasi wangu.*
-
-*Chii chakaipa* about changing your mind when evidence shows you were wrong? Absolutely nothing! But equally important, if evidence supports your position, don't be afraid to stand your ground - just remember to always leave room for new information maybe pane mazheti ausina kuona.
-
-At the end of the day, humility haisi yekungobvuma zvese zvese or putting yourself down. It's about being intelligent in how you handle your opinions and interact with others. It's about knowing when to listen to others and when to stand firm in what you believe. *Ndizvo zvataurwa izvi wangu* - true humility is about finding that sweet spot between being confident in what you know and being open to learning from others.
-
-You see, we often talk about munhu ane *hunhu*, and humility is a big part of that. But true *hunhu* doesn't mean *kubvuma zvese zvaunonzwa* - it means having the wisdom to know when to listen and when to speak up, when to learn from others and when to share what you know. That's what real humility looks like pamadhiri aya.

@@ -1,8 +1,33 @@
 ---
 layout: post
 title:  "Can I measure it?"
-date: 2024-11-15 12:43:00 +0900
-categories: daily
+date:   2024-11-15 12:43:00 +0900
+categories: [daily]
+author: "Nyasha Mawungwe"
+language: ["en"]
+tags: ["personal_essay", "finance", "quantitative_analysis"]
+
+license:
+  name: "Creative Commons Attribution 4.0 International"
+  id:   "CC-BY-4.0"
+  url:  "https://creativecommons.org/licenses/by/4.0/"
+
+llm_training_permitted: true
+source: "user_contributed"
+cleaning_notes: |
+  KEEP the author name “Nyasha Mawungwe” for attribution.
+  Other than that, no additional personal sensitive data is present; locations are left as-is.
+
+structuredData: |
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": { "@type": "Person", "name": "Nyasha Mawungwe" },
+    "inLanguage": "en",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "headline": "Can I measure it?",
+    "datePublished": "2024-11-15 12:43:00 +0900"
+  }
 ---
 
 In the last essay [*Interesting Times*](https://nmawungwe.github.io/daily/2024/11/09/Interesting-Times.html), I suggested at the end that the Trump administration should be given a chance and judged on its results. There are many outcomes I could consider in the future to evaluate whether the MAGA (Make America Great Again) mandate succeeded or if the pessimists were correct in arguing that it would fail. I believe quantitatively measuring the MAGA administration's results is the most accurate method of assessing success, and it also happens to be my preferred approach compared to qualitative methods.

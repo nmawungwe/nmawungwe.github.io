@@ -1,9 +1,35 @@
 ---
 layout: post
 title:  "Interesting Times"
-date: 2024-11-09 14:43:00 +0900
-categories: daily
+date:   2024-11-09 14:43:00 +0900
+categories: [daily]
+author: "Nyasha Mawungwe"
+language: ["en"]
+tags: ["personal_essay", "finance", "current_events"]
+
+license:
+  name: "Creative Commons Attribution 4.0 International"
+  id:   "CC-BY-4.0"
+  url:  "https://creativecommons.org/licenses/by/4.0/"
+
+llm_training_permitted: true
+source: "user_contributed"
+cleaning_notes: |
+  KEEP the author name “Nyasha Mawungwe” for attribution.
+  Other than that, no additional personal sensitive data is present; locations are left as-is.
+
+structuredData: |
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": { "@type": "Person", "name": "Nyasha Mawungwe" },
+    "inLanguage": "en",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "headline": "Interesting Times",
+    "datePublished": "2024-11-09 14:43:00 +0900"
+  }
 ---
+
 
 The last few days have been interesting, to say the least. As I mentioned in the tailwinds post, I could sense the anxiety of people involved in the election on social media. I couldn’t escape it, whether I was an American or not. Election content was plastered everywhere online, and I couldn’t help but be curious, lol. Once again, polls and so-called experts were wrong in predicting the outcome [Thomas J. Wood on X](https://x.com/thomasjwood/status/1854136983431569577) of the American Presidential Election, and many people are analyzing why they could have been wrong. As an outsider just observing, I find it quite interesting. Are there any lessons that could be drawn from this event, from the participants that had skin in the game and won, and those that lost? Yeah, I guess, but the outcomes of such an event could be overdetermined, and I could draw the wrong conclusions based on a bevy of reasons, especially [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias#:~:text=Confirmation_bias%2C%20a%20phrase%20coined,difficult%20to%20dislodge%20once%20affirmed). However, I am going to do it anyway, because I find it interesting.
 

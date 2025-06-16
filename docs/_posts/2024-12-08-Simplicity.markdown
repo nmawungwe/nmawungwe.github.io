@@ -1,9 +1,35 @@
 ---
 layout: post
 title:  "Simplicity"
-date: 2024-12-08 09:51:00 +0900
-categories: daily
+date:   2024-12-08 09:51:00 +0900
+categories: [daily]
+author: "Nyasha Mawungwe"
+language: ["en"]
+tags: ["personal_essay", "simplicity"]
+
+license:
+  name: "Creative Commons Attribution 4.0 International"
+  id:   "CC-BY-4.0"
+  url:  "https://creativecommons.org/licenses/by/4.0/"
+
+llm_training_permitted: true
+source: "user_contributed"
+cleaning_notes: |
+  KEEP the author name “Nyasha Mawungwe” for attribution.
+  Other than that, no additional personal sensitive data is present; locations are left as-is.
+
+structuredData: |
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": { "@type": "Person", "name": "Nyasha Mawungwe" },
+    "inLanguage": "en",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "headline": "Simplicity",
+    "datePublished": "2024-12-08 09:51:00 +0900"
+  }
 ---
+
 
 Simplicity has been on my mind lately. After learning about [Occam’s razor principle](https://simple.wikipedia.org/wiki/Occam%27s_razor#:~:text=Occam's%20razor%20(or%20Ockham's%20razor,the%20more%20unlikely%20an%20explanation)), I can’t stop thinking about it and seeing it everywhere. Basically, the principle says that when an event occurs, there are many explanations for what caused it, and the simplest explanation, which makes the least assumptions, is the most likely accurate one. Bearing that in mind, I can think of countless situations where I have entangled myself in assumptions and thoughts while trying to explain a person’s behavior, a transpired event, a result, a future prediction, or when making a choice. In these situations, looking back with the benefit of hindsight, I mostly conclude that I overly complicated the matter and made too many assumptions, even when the solution was in plain sight.
 

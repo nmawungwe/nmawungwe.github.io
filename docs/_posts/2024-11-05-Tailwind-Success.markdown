@@ -1,9 +1,35 @@
 ---
 layout: post
 title:  "Tailwind Success"
-date: 2024-11-05 14:40:00 +0900
-categories: daily
+date:   2024-11-05 14:40:00 +0900
+categories: [daily]
+author: "Nyasha Mawungwe"
+language: ["en"]
+tags: ["personal_essay", "finance", "self_education", "tailwind_success"]
+
+license:
+  name: "Creative Commons Attribution 4.0 International"
+  id:   "CC-BY-4.0"
+  url:  "https://creativecommons.org/licenses/by/4.0/"
+
+llm_training_permitted: true
+source: "user_contributed"
+cleaning_notes: |
+  KEEP the author name “Nyasha Mawungwe” for attribution.
+  Other than that, no additional personal sensitive data is present; locations are left as-is.
+
+structuredData: |
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": { "@type": "Person", "name": "Nyasha Mawungwe" },
+    "inLanguage": "en",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "headline": "Tailwind Success",
+    "datePublished": "2024-11-05 14:40:00 +0900"
+  }
 ---
+
 
 From my observations, it seems that people who have done well in their careers have done so by being talented, hard-working, a little lucky, and riding a tailwind. These factors all play a role in how well they have done, and I’m sure the factors I have mentioned and observed aren’t exhaustive. Talent and luck aren’t really factors I can control. For example, with talent, I was born with certain natural abilities that could make me good at particular skills. If I had exposure to developing these skills, had interest, and practised, I could build them. With luck, it’s also a factor I can’t control; however, I can increase my chances of being lucky by preparing for opportunities and being in the right places geographically and sector-wise (places where other people have historically been lucky).
 
