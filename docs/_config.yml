@@ -31,8 +31,6 @@ github_username:  nmawungwe
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag   # prints canonical URLs, Open-Graph tags, etc.
-  - jekyll-sitemap   # auto-generates /sitemap.xml with <lastmod> dates
 
 # Exclude from processing.
 # The following items will not be processed, by default.
