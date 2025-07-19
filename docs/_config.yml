@@ -26,6 +26,9 @@ domain: nmawungwe.github.io
 url: https://nmawungwe.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nyasha_mawungwe
 github_username:  nmawungwe
+header_pages:
+  - about.markdown
+  - readings.markdown
 
 # Build settings
 theme: minima
@@ -51,3 +54,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  reviews:
+    output: true
+  papers:
+    output: true

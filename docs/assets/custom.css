@@ -26,6 +26,7 @@ body.dark-mode .site-nav .page-link {
 
 body.dark-mode .post-link {
     color: #e0e0e0;
+    font-weight: normal;
 }
 
 body.dark-mode .post-meta {
