@@ -137,6 +137,15 @@ body.dark-mode .svg-icon {
     padding: 5px 10px;
     margin-left: 20px;
   }
+
+  body.dark-mode .site-nav {
+    background-color: #121212;
+    border-color: #333;
+  }
+
+  body.dark-mode .menu-icon > svg {
+    fill: #e0e0e0;
+  }
 }
 
 /* Toggle switch styles */
