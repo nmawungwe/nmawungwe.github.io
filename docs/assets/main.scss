@@ -75,32 +75,30 @@ body.dark-mode .svg-icon {
 
 /* Mobile Nav Fix */
 @media screen and (max-width: 600px) {
+    .wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .site-title {
+        font-size: 1.2rem;
+    }
+
     .site-nav {
-        position: static;
-        float: none;
-        width: auto;
-        border: none;
-        background-color: transparent;
-        text-align: left;
+        order: 1;
+        width: 100%;
+        margin-top: 1rem;
     }
 
     .site-nav .trigger {
-        display: block;
+        display: flex;
+        justify-content: space-around;
     }
 
     .site-nav .page-link {
-        display: block;
-        padding: 10px 0;
-        text-align: left;
-        border-bottom: 1px solid #eee;
-    }
-
-    .site-nav .page-link:last-child {
-        border-bottom: none;
-    }
-
-    body.dark-mode .site-nav {
-        background-color: transparent;
+        padding: 0.5rem;
     }
 
     body.dark-mode .site-nav .page-link {
