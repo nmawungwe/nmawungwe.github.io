@@ -75,9 +75,23 @@ body.dark-mode .svg-icon {
 
 /* Mobile Nav Fix */
 @media screen and (max-width: 600px) {
+    .site-nav {
+        position: static;
+        float: none;
+        width: auto;
+        border: none;
+        background-color: transparent;
+        text-align: left;
+    }
+
+    .site-nav .trigger {
+        display: block;
+    }
+
     .site-nav .page-link {
         display: block;
         padding: 10px 0;
+        text-align: left;
         border-bottom: 1px solid #eee;
     }
 
@@ -86,8 +100,7 @@ body.dark-mode .svg-icon {
     }
 
     body.dark-mode .site-nav {
-        background-color: #121212;
-        border-color: #333;
+        background-color: transparent;
     }
 
     body.dark-mode .site-nav .page-link {
