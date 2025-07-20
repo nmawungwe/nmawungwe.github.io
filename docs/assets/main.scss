@@ -73,21 +73,11 @@ body.dark-mode .svg-icon {
     fill: #ccc;
 }
 
-/* Mobile Nav Fix */
+.site-header {
+    position: relative;
+}
+
 .site-nav {
-  position: relative;
-}
-
-.nav-trigger {
-  display: none;
-}
-
-.menu-icon {
-  display: none;
-}
-
-@media screen and (max-width: 600px) {
-  .site-nav {
     position: absolute;
     top: 9px;
     right: 15px;
@@ -95,9 +85,30 @@ body.dark-mode .svg-icon {
     border: 1px solid #e8e8e8;
     border-radius: 5px;
     text-align: right;
-  }
+}
 
-  .nav-trigger {
+.site-nav .menu-icon {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 26px;
+    line-height: 0;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.site-nav .menu-icon > svg {
+    width: 18px;
+    height: 15px;
+    fill: #424242;
+}
+
+.site-nav .trigger {
+    clear: both;
+    display: none;
+}
+
+.site-nav .nav-trigger {
     display: block;
     position: absolute;
     top: 0;
@@ -106,51 +117,50 @@ body.dark-mode .svg-icon {
     height: 36px;
     opacity: 0;
     cursor: pointer;
-  }
+}
 
-  .nav-trigger:checked ~ .trigger {
+.site-nav .nav-trigger:checked ~ .trigger {
     display: block;
-  }
+}
 
-  .menu-icon {
-    display: block;
-    position: relative;
-    float: right;
-    width: 36px;
-    height: 26px;
-    line-height: 0;
-    padding-top: 10px;
-    text-align: center;
-  }
-
-  .menu-icon > svg {
-    fill: #424242;
-  }
-
-  .trigger {
-    clear: both;
-    display: none;
-  }
-
-  .page-link {
+.site-nav .page-link {
     display: block;
     padding: 5px 10px;
     margin-left: 20px;
-  }
-
-  .site-header {
-    position: relative;
-  }
 }
 
-  body.dark-mode .site-nav {
+@media screen and (min-width: 600px) {
+    .site-nav {
+        position: static;
+        float: right;
+        width: auto;
+        border: none;
+        background-color: transparent;
+        text-align: right;
+    }
+
+    .site-nav .menu-icon {
+        display: none;
+    }
+
+    .site-nav .trigger {
+        display: block;
+    }
+
+    .site-nav .page-link {
+        display: inline-block;
+        padding: 0;
+        margin-left: 20px;
+    }
+}
+
+body.dark-mode .site-nav {
     background-color: #121212;
     border-color: #333;
-  }
+}
 
-  body.dark-mode .menu-icon > svg {
+body.dark-mode .site-nav .menu-icon > svg {
     fill: #e0e0e0;
-  }
 }
 
 /* Toggle switch styles */
