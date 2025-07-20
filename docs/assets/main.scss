@@ -87,10 +87,6 @@ body.dark-mode .svg-icon {
 }
 
 @media screen and (max-width: 600px) {
-  .site-header .wrapper {
-    position: relative;
-  }
-
   .site-nav {
     position: absolute;
     top: 9px;
@@ -141,6 +137,11 @@ body.dark-mode .svg-icon {
     padding: 5px 10px;
     margin-left: 20px;
   }
+
+  .site-header {
+    position: relative;
+  }
+}
 
   body.dark-mode .site-nav {
     background-color: #121212;
