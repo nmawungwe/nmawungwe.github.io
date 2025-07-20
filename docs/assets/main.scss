@@ -75,18 +75,6 @@ body.dark-mode .svg-icon {
 
 /* Mobile Nav Fix */
 @media screen and (max-width: 600px) {
-    .site-nav .nav-trigger {
-        display: block;
-    }
-
-    .site-nav .trigger {
-        display: none;
-    }
-
-    .site-nav .nav-open .trigger {
-        display: block;
-    }
-
     .site-nav .page-link {
         display: block;
         padding: 10px 0;
