@@ -2,7 +2,7 @@
 layout: post
 title:  "Dai ndakaziva inotungamira"
 date:   2025-06-21 15:46:00 +0200
-categories: [daily]
+categories: [experiences]
 author: "Nyasha Mawungwe"
 language: ["sn", "en"]
 tags: ["personal_essay", "self_reflection", "code-switching"]

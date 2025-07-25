@@ -2,7 +2,7 @@
 layout: post
 title:  "Tailwind Success"
 date:   2024-11-05 14:40:00 +0900
-categories: [daily]
+categories: [finance, tech]
 author: "Nyasha Mawungwe"
 language: ["en"]
 tags: ["personal_essay", "finance", "self_education", "tailwind_success"]

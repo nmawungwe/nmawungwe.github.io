@@ -2,7 +2,7 @@
 layout: post
 title:  "Can I measure it?"
 date:   2024-11-15 12:43:00 +0900
-categories: [daily]
+categories: [finance]
 author: "Nyasha Mawungwe"
 language: ["en"]
 tags: ["personal_essay", "finance", "quantitative_analysis"]

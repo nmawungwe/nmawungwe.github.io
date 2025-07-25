@@ -2,7 +2,7 @@
 layout: post
 title:  "Humility"
 date:   2024-12-11 20:50:00 +0900
-categories: [daily]
+categories: [experiences, finance]
 author: "Nyasha Mawungwe"
 language: ["sn", "en"]
 tags: ["personal_essay", "finance", "rationality", "code-switching"]

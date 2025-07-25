@@ -2,7 +2,7 @@
 layout: post
 title:  "Being an active social participant"
 date:   2024-10-26 14:40:00 +0900
-categories: [daily]
+categories: [experiences]
 author: "Nyasha Mawungwe"
 language: ["en"]
 tags: ["personal_essay", "social_participation"]

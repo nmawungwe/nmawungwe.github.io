@@ -2,7 +2,7 @@
 layout: post
 title:  "Simplicity"
 date:   2024-12-08 09:51:00 +0900
-categories: [daily]
+categories: [experiences]
 author: "Nyasha Mawungwe"
 language: ["en"]
 tags: ["personal_essay", "simplicity"]

@@ -29,6 +29,9 @@ github_username:  nmawungwe
 header_pages:
   - about.markdown
   - readings.markdown
+  - tech.html
+  - experiences.html
+  - finance.html
 
 # Build settings
 theme: minima

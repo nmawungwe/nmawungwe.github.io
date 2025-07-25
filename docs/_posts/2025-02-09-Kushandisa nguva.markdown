@@ -2,7 +2,7 @@
 layout: post
 title:  "Kushandisa nguva"
 date:   2025-06-16 15:32:00 +0200
-categories: [daily]
+categories: [finance]
 author: "Nyasha Mawungwe"
 language: ["sn", "en"]
 tags: ["personal_essay", "finance", "code-switching"]

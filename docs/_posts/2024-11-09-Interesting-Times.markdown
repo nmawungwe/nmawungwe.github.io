@@ -2,7 +2,7 @@
 layout: post
 title:  "Interesting Times"
 date:   2024-11-09 14:43:00 +0900
-categories: [daily]
+categories: [finance]
 author: "Nyasha Mawungwe"
 language: ["en"]
 tags: ["personal_essay", "finance", "current_events"]
